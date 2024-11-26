@@ -1,0 +1,5 @@
+![Image alt](https://github.com/malika-mk/Employee-Management-System/blob/main/Снимок%20экрана%202024-11-26%20в%2011.38.42.png)
+![Image alt](https://github.com/malika-mk/Employee-Management-System/blob/main/Снимок%20экрана%202024-11-26%20в%2011.39.12.png)
+![Image alt](https://github.com/malika-mk/Employee-Management-System/blob/main/Снимок%20экрана%202024-11-26%20в%2011.39.58.png)
+![Image alt](https://github.com/malika-mk/Employee-Management-System/blob/main/Снимок%20экрана%202024-11-26%20в%2011.41.51.png)
+![Image alt](https://github.com/malika-mk/Employee-Management-System/blob/main/Снимок%20экрана%202024-11-26%20в%2011.42.05.png)
